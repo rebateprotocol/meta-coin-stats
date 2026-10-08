@@ -1,0 +1,66 @@
+{
+  "cycleIntervalSec": 3600,
+  "cycleJitterSec": 600,
+  "dryRun": false,
+  "lastCycleAt": "2026-10-08T23:14:36Z",
+  "metaMint": "9RwFBZLsQigqwmMGzoYDt2en3NayLyKR2a3crCY5pump",
+  "metaPotSol": 0.0,
+  "metaShareBps": 3000,
+  "nextCycleAt": "2026-10-09T00:20:00Z",
+  "recent": [
+    {
+      "at": "2026-10-08T23:14:43Z",
+      "kind": "meta_burn",
+      "mint": "9RwFBZLsQigqwmMGzoYDt2en3NayLyKR2a3crCY5pump",
+      "sig": "3khHoTbVmdYG7BXb39RuG8hsBgGF5DNJ8yY3332mybYR3AtzKM3YSHF5ipGzjKKQZ99YrZc49fkUoUTPB3B5v5hZ",
+      "sol": 1.469825874,
+      "tokens": 3883000.494245
+    },
+    {
+      "at": "2026-10-08T23:14:39Z",
+      "kind": "claim",
+      "mint": "wallet-vault",
+      "sig": "5MXL7G1EKE6UTwSQnMnc9mkUHxWVPxd4tGUbnDZkzbk28rRadQcJrhNh7otYzZ6gMjVj5YKsi78DC5LXB9cMgDzx",
+      "sol": 0.336923503,
+      "tokens": null
+    },
+    {
+      "at": "2026-10-08T23:14:38Z",
+      "kind": "claim",
+      "mint": "wallet-vault",
+      "sig": "61gkhEbJMTvrJhvEVxb5P8U2X6nTg8DwsVMfPxUWQKcgRJNkpVsBKrZ7Gk85Q84Dpq24s6LPZYJfwppzJMhyzwoS",
+      "sol": 1.132902371,
+      "tokens": null
+    }
+  ],
+  "reconcile": {
+    "at": "2026-10-08T23:14:39Z",
+    "balanceSol": 4.66550544,
+    "committedSol": 1.469825874,
+    "deficit": false,
+    "freeSol": 3.145679566,
+    "inFlightSol": 0.0,
+    "reserveSol": 0.05
+  },
+  "selfShareBps": 7000,
+  "tokens": [
+    {
+      "lastClaimAt": null,
+      "mint": "9RwFBZLsQigqwmMGzoYDt2en3NayLyKR2a3crCY5pump",
+      "solClaimed": 0.0,
+      "solSelfBuyback": 0.0,
+      "solToMeta": 0.0,
+      "tokensBurned": 3883000.494245,
+      "tokensBurnedRaw": "3883000494245"
+    }
+  ],
+  "totals": {
+    "metaBurned": 3883000.494245,
+    "metaBurnedRaw": "3883000494245",
+    "solClaimed": 1.469825874,
+    "solMetaBuyback": 1.469825874,
+    "solSelfBuyback": 0.0
+  },
+  "unattributedSol": 0.0,
+  "updatedAt": "2026-10-08T23:15:07Z"
+}
