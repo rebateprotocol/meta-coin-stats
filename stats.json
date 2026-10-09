@@ -2,11 +2,11 @@
   "cycleIntervalSec": 3600,
   "cycleJitterSec": 600,
   "dryRun": false,
-  "lastCycleAt": "2026-10-09T15:42:19Z",
+  "lastCycleAt": "2026-10-09T16:51:34Z",
   "metaMint": "9RwFBZLsQigqwmMGzoYDt2en3NayLyKR2a3crCY5pump",
   "metaPotSol": 0.0,
   "metaShareBps": 3000,
-  "nextCycleAt": "2026-10-09T16:50:00Z",
+  "nextCycleAt": "2026-10-09T18:00:00Z",
   "recent": [
     {
       "at": "2026-10-09T00:18:50Z",
@@ -50,11 +50,11 @@
     }
   ],
   "reconcile": {
-    "at": "2026-10-09T15:42:19Z",
-    "balanceSol": 1.033275834,
+    "at": "2026-10-09T16:51:34Z",
+    "balanceSol": 0.00089088,
     "committedSol": 0.0,
-    "deficit": false,
-    "freeSol": 0.983275834,
+    "deficit": true,
+    "freeSol": -0.04910912,
     "inFlightSol": 0.0,
     "reserveSol": 0.05
   },
@@ -78,5 +78,5 @@
     "solSelfBuyback": 0.0
   },
   "unattributedSol": 0.346462487,
-  "updatedAt": "2026-10-09T15:42:19Z"
+  "updatedAt": "2026-10-09T16:51:34Z"
 }
