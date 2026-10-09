@@ -2,12 +2,28 @@
   "cycleIntervalSec": 3600,
   "cycleJitterSec": 600,
   "dryRun": false,
-  "lastCycleAt": "2026-10-08T23:14:36Z",
+  "lastCycleAt": "2026-10-09T00:18:47Z",
   "metaMint": "9RwFBZLsQigqwmMGzoYDt2en3NayLyKR2a3crCY5pump",
   "metaPotSol": 0.0,
   "metaShareBps": 3000,
-  "nextCycleAt": "2026-10-09T00:20:00Z",
+  "nextCycleAt": "2026-10-09T01:20:00Z",
   "recent": [
+    {
+      "at": "2026-10-09T00:18:50Z",
+      "kind": "meta_burn",
+      "mint": "9RwFBZLsQigqwmMGzoYDt2en3NayLyKR2a3crCY5pump",
+      "sig": "q61dS5BCijbyCAiqjdzXSWZVd64BJ3aauigg8b4QAdKr18d2KnCHfmDLZGh6f3DqAJVgANgcnBss48d9hKMJV52",
+      "sol": 0.737488847,
+      "tokens": 26660917.580451
+    },
+    {
+      "at": "2026-10-09T00:18:47Z",
+      "kind": "claim",
+      "mint": "9RwFBZLsQigqwmMGzoYDt2en3NayLyKR2a3crCY5pump",
+      "sig": "2EadvTDJyQt5J57sDQSguuP7muAEGXng7W5udcXpY7MWUSGnC3G8RDRFfhxEPqGHCkCfWz8vK36QWZ5SDTj6EXMu",
+      "sol": 0.737488847,
+      "tokens": null
+    },
     {
       "at": "2026-10-08T23:14:43Z",
       "kind": "meta_burn",
@@ -34,33 +50,33 @@
     }
   ],
   "reconcile": {
-    "at": "2026-10-08T23:14:39Z",
-    "balanceSol": 4.66550544,
-    "committedSol": 1.469825874,
+    "at": "2026-10-09T00:18:47Z",
+    "balanceSol": 1.770788681,
+    "committedSol": 0.737488847,
     "deficit": false,
-    "freeSol": 3.145679566,
+    "freeSol": 0.983299834,
     "inFlightSol": 0.0,
     "reserveSol": 0.05
   },
   "selfShareBps": 7000,
   "tokens": [
     {
-      "lastClaimAt": null,
+      "lastClaimAt": "2026-10-09T00:18:47Z",
       "mint": "9RwFBZLsQigqwmMGzoYDt2en3NayLyKR2a3crCY5pump",
-      "solClaimed": 0.0,
+      "solClaimed": 0.737488847,
       "solSelfBuyback": 0.0,
-      "solToMeta": 0.0,
-      "tokensBurned": 3883000.494245,
-      "tokensBurnedRaw": "3883000494245"
+      "solToMeta": 0.737488847,
+      "tokensBurned": 30543918.074696,
+      "tokensBurnedRaw": "30543918074696"
     }
   ],
   "totals": {
-    "metaBurned": 3883000.494245,
-    "metaBurnedRaw": "3883000494245",
-    "solClaimed": 1.469825874,
-    "solMetaBuyback": 1.469825874,
+    "metaBurned": 30543918.074696,
+    "metaBurnedRaw": "30543918074696",
+    "solClaimed": 2.207314721,
+    "solMetaBuyback": 2.207314721,
     "solSelfBuyback": 0.0
   },
-  "unattributedSol": 0.0,
-  "updatedAt": "2026-10-08T23:15:07Z"
+  "unattributedSol": 0.346462487,
+  "updatedAt": "2026-10-09T00:18:50Z"
 }
